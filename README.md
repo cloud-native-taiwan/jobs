@@ -15,7 +15,7 @@
 
 
 ## 求職方
-您可以透過 [issue tab](https://github.com/cloud-native-taiwan/jobs/issues) 裡提供的 `Filters` 來根據 `label` 、刊登日期或是內容等快速找到合適的職缺。如對於職缺有任何疑慮，可在issue下方留言詢問或直接聯繫求職方。
+您可以透過 [issue tab](https://github.com/cloud-native-taiwan/jobs/issues) 裡提供的 `Filters` 來根據 `label` 、刊登日期或是內容等快速找到合適的職缺。如對於職缺有任何疑慮，可在 issue 下方留言詢問或直接聯繫求職方。
 
 
 ## 注意事項
