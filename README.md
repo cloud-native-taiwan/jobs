@@ -2,7 +2,7 @@
 此Jobs Board是用來刊登關於Cloud Native技術相關職缺，歡迎在此建立職缺資訊。
 
 ## 求才方
-您可以到[issue tab](https://github.com/cloud-native-taiwan/jobs/issues)建立新職缺資訊，格式可參考[Job template](https://github.com/cloud-native-taiwan/jobs/issues/new/choose)，內容部分請盡量附註以下資訊，以供瀏覽者更加了解職務內容：
+您可以到[issue tab](https://github.com/cloud-native-taiwan/jobs/issues)建立新職缺資訊，格式可參考[Job template](https://github.com/cloud-native-taiwan/jobs/blob/master/.github/ISSUE_TEMPLATE/job-template.md)，內容部分請盡量附註以下資訊，以供瀏覽者更加了解職務內容：
 
 1. 公司資訊
 2. 薪資範圍
