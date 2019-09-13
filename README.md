@@ -11,7 +11,7 @@
 5. ...
 
 
-此外，您也可以套用 `label` 來使職缺資訊更加清楚明瞭，如有需要新增 `label` 也歡迎留言告知。最後希望在順利求到才後，能將貴司的 issue close 掉，謝謝！
+此外，您也可以套用 [label](https://github.com/cloud-native-taiwan/jobs/labels) 來使職缺資訊更加清楚明瞭，如有需要新增 `label` 也歡迎留言告知或是直接開issue。最後希望在順利求到才後，能將貴司的 issue close 掉，謝謝！
 
 
 ## 求職方

@@ -24,10 +24,10 @@ assignees:
 * 薪資範圍 / Salary.
 * 相關福利 / Welfares.
 
-## 工作內容 Responsibilities
+## 工作內容 / Responsibilities
 * 工作內容 / The essential duties required to carry out this job.
 
-## 基本條件 Requirements
+## 基本條件 / Requirements
 * 學歷 / Education level.
 * 英文能力 / English skills.
 * 專業技能 / Professional skills.
